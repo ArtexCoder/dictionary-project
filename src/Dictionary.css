@@ -1,6 +1,6 @@
 .Dictionary section {
   margin: 20px 0;
-  background: linen;
+  background: #f8e4e7;
   padding: 30px;
   border-radius: 6px;
   box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
@@ -12,4 +12,9 @@
   padding: 6px 10px;
   color: black;
   border: 1px solid linen;
+}
+
+.Dictionary .hint {
+  font-size: 13px;
+  font-style: italic;
 }
